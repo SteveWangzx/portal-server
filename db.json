@@ -1,0 +1,42 @@
+{
+  "Users": [
+    {
+      "id": "002",
+      "userName": "test2",
+      "password": "123456",
+      "userType": "2"
+    },
+    {
+      "id": "13720",
+      "userName": "adminwzx",
+      "password": "fcb981116",
+      "userType": "2"
+    },
+    {
+      "id": "18527",
+      "userName": "Doctorwzx",
+      "password": "fcb981116",
+      "userType": "0"
+    }
+  ],
+  "userInfo": [
+    {
+      "name": "Steve Wang",
+      "userName": "adminwzx",
+      "Location": "fqqfq",
+      "Office": "adaf",
+      "Address": "fsfw",
+      "phone": "123456",
+      "id": "13720"
+    },
+    {
+      "name": "ZHIXIANG WANG",
+      "userName": "Doctorwzx",
+      "Location": "qdqd",
+      "Office": "dada",
+      "Address": "45 Institute Rd",
+      "phone": "+1 06177856630",
+      "id": "18527"
+    }
+  ]
+}
